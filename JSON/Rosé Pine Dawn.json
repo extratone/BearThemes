@@ -1,0 +1,143 @@
+[
+  {
+    "meta": [
+      {
+        "base theme": "Red Graphite"
+      }
+    ]
+  },
+  {
+    "base" : [
+      {
+        "text color" : "#575279"
+      },
+      {
+        "text secondary color" : "#9893a5"
+      },
+      {
+        "text tertiary color" : "#797593"
+      },
+      {
+        "background color" : "#faf4ed"
+      },
+      {
+        "background secondary color" : "#F2E9E1"
+      },
+      {
+        "background tertiary color" : "#E3D9D0"
+      },
+      {
+        "accent color" : "#d7827e"
+      },
+      {
+        "search primary color" : "#ea9d34"
+      }
+    ]
+  },
+  {
+    "sidebar" : [
+      {
+        "text color": "$base.text color"
+      },
+      {
+        "text secondary color" : "#FFFFFF"
+      },
+      {
+        "background color": "#F3E9E0"
+      },
+      {
+        "background secondary color": "#E7BBB5"
+      },
+      {
+        "accent color": "#d7827e"
+      },
+      {
+        "icon color": "#b4637a"
+      },
+      {
+        "selected icon color": "#FFFFFF"
+      },
+      {
+        "stroke color": "$base.stroke color"
+      },
+      {
+        "toolbar" : [
+          {
+            "icon color" : "#9893a5"
+          }
+       ]
+      }
+    ]
+  },
+  {
+    "placeholder": [
+      {
+        "background color": "$base.background color"
+      },
+      {
+        "background stroke color": "#d9d9d9"
+      },
+      {
+        "shadow color": "#e8e8eb"
+      },
+      {
+        "stroke color": "#c9cbd9"
+      }
+    ]
+  },
+  {
+    "notes" : [
+        {
+         "pin color": "#907aa9"
+        },
+        {
+         "title color": "#286983"
+        },
+        {
+         "toolbar" : [
+           {
+            "icon color" : "#9893a5"
+           }
+         ]
+        }
+    ]
+  },
+  {
+    "editor" : [
+      {
+        "link color": "#d7827e"
+      },
+      {
+        "headers": [
+          {
+            "text color": "#286983"
+          }
+        ]
+      },
+      {
+        "task": [
+          {
+            "border color": "#907aa9"
+          },
+          {
+            "check color": "#907aa9"
+          }
+        ]
+      },
+      {
+        "separator": [
+          {
+            "border color": "$base.stroke color"
+          }
+        ]
+      },
+      {
+        "toolbar" : [
+          {
+            "icon color" : "#9893a5"
+          }
+       ]
+      }
+    ]
+  }
+]

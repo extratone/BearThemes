@@ -1,0 +1,146 @@
+[
+  {
+    "meta": [
+      {
+        "base theme": "Dark Graphite"
+      }
+    ]
+  },
+  {
+    "base" : [
+      {
+        "text color" : "#C7B3A8"
+      },
+      {
+        "text secondary color" : "#A88B84"
+      },
+      {
+        "text tertiary color" : "#7F6662"
+      },
+      {
+        "background color" : "#5C4243"
+      },
+      {
+        "background secondary color" : "#513A3B"
+      },
+      {
+        "background tertiary color" : "#443131"
+      },
+      {
+        "stroke color" : "#6A5150"
+      },
+      {
+        "accent color" : "#C6AD75"
+      },
+      {
+        "highlight color" : "#566233"
+      },
+      {
+        "search primary color": "#e0af68"
+      },
+      {
+        "selection color": "#451B1B"
+      }
+    ]
+  },
+  {
+    "sidebar" : [
+      {
+        "text color": "$base.text color"
+      },
+      {
+        "text secondary color" : "#FFFFFF"
+      },
+      {
+        "background color": "#3C2A2B"
+      },
+      {
+        "background secondary color": "#655141"
+      },
+      {
+        "accent color": "#947E5A"
+      },
+      {
+        "icon color": "#77655B"
+      },
+      {
+        "selected icon color": "#FFFFFF"
+      },
+      {
+        "toolbar" : [
+          {
+            "icon color" : "#967E78"
+          }
+       ]
+      }
+    ]
+  },
+  {
+    "notes" : [
+      {
+        "separator color": "$base.stroke color"
+      },
+      {
+        "toolbar" : [
+          {
+            "icon color" : "#967E78"
+          }
+       ]
+      }
+    ]
+  },
+  {
+    "placeholder" : [
+      {
+        "background color": "$base.background color"
+      },
+      {
+        "background stroke color": "$base.background tertiary color"
+      },
+      {
+        "shadow color": "$base.background secondary color"
+      },
+      {
+        "stroke color": "$base.background tertiary color"
+      }
+    ]
+  },
+  {
+    "editor" : [
+      {
+        "link color": "#C16119"
+      },
+      {
+        "selection inactive color": "#533233"
+      },
+      {
+        "headers" : [
+          {
+            "text color" : "#D7BDBC"
+          }
+        ]
+      },
+      {
+        "separator": [
+          {
+            "border color": "#7F6764"
+          }
+        ]
+      },
+      {
+        "table": [
+          {
+            "border color": "$editor.separator.border color"
+          }
+        ]
+      },
+      {
+        "toolbar" : [
+          {
+            "icon color" : "#967E78"
+          }
+       ]
+      }
+    ]
+  }
+]

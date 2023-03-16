@@ -1,0 +1,162 @@
+[
+  {
+    "meta": [
+      {
+        "base theme": "Dark Graphite"
+      }
+    ]
+  },
+  {
+    "base" : [
+      {
+        "text color" : "#e0def4"
+      },
+      {
+        "text secondary color" : "#837E9F"
+      },
+      {
+        "text tertiary color" : "#908caa"
+      },
+      {
+        "background color" : "#232136"
+      },
+      {
+        "background secondary color" : "#2A273F"
+      },
+      {
+        "background tertiary color" : "#393552"
+      },
+      {
+        "stroke color" : "#2F2D42"
+      },
+      {
+        "accent color" : "#ea9a97"
+      },
+      {
+        "highlight color" : "#31748f"
+      },
+      {
+        "selection color" : "#393552"
+      },
+      {
+        "search primary color" : "#f6c177"
+      }
+    ]
+  },
+  {
+    "sidebar" : [
+      {
+        "text color": "$base.text color"
+      },
+      {
+        "text secondary color" : "#FFFFFF"
+      },
+      {
+        "background color": "#312F44"
+      },
+      {
+        "background secondary color": "#232136"
+      },
+      {
+        "accent color": "#eb6f92"
+      },
+      {
+        "icon color": "#ea9a97"
+      },
+      {
+        "selected icon color": "#FFFFFF"
+      },
+      {
+        "toolbar" : [
+          {
+            "icon color" : "#908caa"
+          }
+       ]
+      }
+    ]
+  },
+  {
+    "notes" : [
+        {
+         "pin color": "#f6c177"
+        },
+        {
+          "separator color": "$base.stroke color"
+        },
+        {
+          "selection inactive color" : "#29263F"
+        },
+        {
+         "toolbar" : [
+           {
+             "icon color" : "#908caa"
+           }
+         ]
+        }
+    ]
+  },
+  {
+    "placeholder" : [
+      {
+        "background color": "$base.background color"
+      },
+      {
+        "background stroke color": "$base.background tertiary color"
+      },
+      {
+        "shadow color": "$base.background secondary color"
+      },
+      {
+        "stroke color": "#524f67"
+      }
+    ]
+  },
+  {
+    "editor" : [
+      {
+        "link color": "#eb6f92"
+      },
+      {
+        "selection inactive color": "#29263F"
+      },
+      {
+        "headers": [
+          {
+            "text color": "#c4a7e7"
+          }
+        ]
+      },
+      {
+        "table": [
+          {
+            "border color": "$base.background tertiary color"
+          }
+        ]
+      },
+      {
+        "separator": [
+          {
+            "border color": "$base.background tertiary color"
+          }
+        ]
+      },
+      {
+        "task": [
+          {
+            "border color": "#f6c177"
+          },
+          {
+            "check color": "#f6c177"
+          }
+        ]
+      },
+      {
+        "toolbar" : [
+          {
+            "icon color" : "#908caa"
+          }
+       ]
+      }
+    ]
+  }
+]

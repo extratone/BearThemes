@@ -1,0 +1,343 @@
+[
+  {
+    "base": [
+      {
+        "text color": "#d9d7d1"
+      },
+      {
+        "text secondary color": "#848A97"
+      },
+      {
+        "text tertiary color": "#7b8292"
+      },
+      {
+        "background color": "#1f232f"
+      },
+      {
+        "background secondary color": "#2B2E3E"
+      },
+      {
+        "background tertiary color": "#36394B"
+      },
+      {
+        "stroke color": "#3b4256"
+      },
+      {
+        "accent color": "#fecb66"
+      },
+      {
+        "search primary color": "#5f0d68"
+      },
+      {
+        "search secondary color": "$base.selection color"
+      },
+      {
+        "highlight color": "#156750"
+      },
+      {
+        "selection color": "#454D56"
+      }
+    ]
+  },
+  {
+    "notes" : [
+    {
+      "title color": "$base.text color"
+    },
+    {
+      "subtitle color": "$base.text secondary color"
+    },
+    {
+      "placeholder color": "$base.text secondary color"
+    },
+    {
+      "date color": "$base.text secondary color"
+    },
+    {
+      "pin color": "$base.accent color"
+    },
+    {
+      "separator color": "$base.stroke color"
+    },
+    {
+      "search background color": "$base.search primary color"
+    },
+    {
+      "attachment background color": "$base.background secondary color"
+    },
+    {
+      "encrypted token color": "$base.background tertiary color"
+    },
+    {
+      "selection background color": "$base.background secondary color"
+    },
+    {
+      "ribbon color": "$base.accent color"
+    },
+    {
+      "toolbar" : [
+        {
+          "background color" : "$base.background color"
+        },
+        {
+          "text color" : "$base.text color"
+        },
+        {
+          "icon color" : "$base.text secondary color"
+        },
+        {
+          "hover color" : "$base.background secondary color"
+        }
+      ]
+    }
+   ]
+  },
+  {
+    "sidebar": [
+      {
+        "text color": "#8f93a5"
+      },
+      {
+        "text secondary color": "#1a1d29"
+      },
+      {
+        "background color": "#1a1d29"
+      },
+      {
+        "background secondary color": "#b49a60"
+      },
+      {
+        "stroke color": "$sidebar.background color"
+      },
+      {
+        "accent color": "#f6cd74"
+      },
+      {
+        "icon color": "#858a9a"
+      },
+      {
+        "selected icon color": "#1a1d29"
+      },
+      {
+        "toolbar" : [
+          {
+            "background color" : "$sidebar.background color"
+          },
+          {
+            "icon color" : "$sidebar.icon color"
+          },
+          {
+            "hover color" : "#12151E"
+          }
+       ]
+      }
+    ]
+  },
+  {
+    "placeholder": [
+      {
+        "background color": "$base.background color"
+      },
+      {
+        "background stroke color": "#343749"
+      },
+      {
+        "shadow color": "#20222e"
+      },
+      {
+        "stroke color": "#404357"
+      }
+    ]
+  },
+  {
+    "debug": [
+      {
+        "show grid": 0
+      },
+      {
+        "show editing range": 0
+      }
+    ]
+  },
+  {
+    "editor": [
+      {
+        "background color": "$base.background color"
+      },
+      {
+        "text color": "$base.text color"
+      },
+      {
+        "text light color": "$base.text secondary color"
+      },
+      {
+        "accent color": "$base.accent color"
+      },
+      {
+        "cursor color": "$base.accent color"
+      },
+      {
+        "link color": "#fecb66"
+      },
+      {
+        "list marker color": "$base.accent color"
+      },
+      {
+        "marker color": "#707a92"
+      },
+      {
+        "selection color": "$base.selection color"
+      },
+      {
+        "selection inactive color": "$base.background tertiary color"
+      },
+      {
+        "text font": "BearSansUI-Regular"
+      },
+      {
+        "text size": 15
+      },
+      {
+        "line height multiplier": 1.5
+      },
+      {
+        "headers": [
+          {
+            "text color": "#9faab9"
+          },
+          {
+            "font": "BearSansUIHeadline-Medium"
+          },
+          {
+            "modular scale": 1.125
+          },
+          {
+            "line height multiplier": 1.4
+          },
+          {
+            "add top bottom padding": 1
+          },
+          {
+            "padding top multiplier": 0.5
+          },
+          {
+            "padding bottom multiplier": 0.3
+          }
+        ]
+      },
+      {
+        "code": [
+          {
+            "text color": "$base.text color"
+          },
+          {
+            "border color": "$base.text tertiary color"
+          },
+          {
+            "background color": "$base.background secondary color"
+          },
+          {
+            "font": "RobotoMono-Regular"
+          },
+          {
+            "text size multiplier": 0.91
+          },
+          {
+            "syntax highlight": [
+              {
+                "comment": "#7e91a2"
+              },
+              {
+                "constant": "#fed580"
+              },
+              {
+                "number": "#b0e27d"
+              },
+              {
+                "string": "#76d0ff"
+              },
+              {
+                "entity": "#f18779"
+              },
+              {
+                "keyword": "#fea759"
+              },
+              {
+                "function": "#f18779"
+              },
+              {
+                "variable": "#f18779"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "task": [
+          {
+            "background color": "$base.background color"
+          },
+          {
+            "border color": "#7c829a"
+          },
+          {
+            "check color": "#7c829a"
+          }
+        ]
+      },
+      {
+        "tag": [
+          {
+            "background color": "#39425a"
+          },
+          {
+            "text color": "#eeefef"
+          },
+          {
+            "marker color": "#7a8aba"
+          }
+        ]
+      },
+      {
+        "highlighter": [
+          {
+            "background color": "$base.highlight color"
+          },
+          {
+            "text color": "$base.text color"
+          }
+        ]
+      },
+      {
+        "separator": [
+          {
+            "border color": "#3b4256"
+          }
+        ]
+      },
+      {
+        "table": [
+          {
+            "border color": "$base.stroke color"
+          },
+          {
+            "cell background color": "$base.background color"
+          },
+          {
+            "cell alternate background color": "$base.background secondary color"
+          }
+        ]
+      },
+      {
+        "toolbar" : [
+          {
+            "icon color" : "$base.text secondary color"
+          },
+          {
+            "hover color" : "$base.background secondary color"
+          }
+       ]
+      }
+    ]
+  }
+]

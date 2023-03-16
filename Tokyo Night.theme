@@ -1,0 +1,191 @@
+[
+  {
+    "meta": [
+      {
+        "base theme": "Dark Graphite"
+      }
+    ]
+  },
+  {
+    "base" : [
+      {
+        "text color" : "#9aa5ce"
+      },
+      {
+        "text secondary color" : "#646E9D"
+      },
+      {
+        "text tertiary color" : "#414868"
+      },
+      {
+        "background color" : "#24283b"
+      },
+      {
+        "background secondary color" : "#1D2030"
+      },
+      {
+        "background tertiary color" : "#16161F"
+      },
+      {
+        "stroke color" : "#1A1C28"
+      },
+      {
+        "accent color" : "#9ece6a"
+      },
+      {
+        "highlight color" : "#565f89"
+      },
+      {
+        "search primary color": "#e0af68"
+      },
+      {
+        "selection color": "#414868"
+      }
+    ]
+  },
+  {
+    "sidebar" : [
+      {
+        "text color": "#c0caf5"
+      },
+      {
+        "text secondary color" : "#16161F"
+      },
+      {
+        "background color": "#16161F"
+      },
+      {
+        "background secondary color": "#6F8E50"
+      },
+      {
+        "accent color": "#9ece6a"
+      },
+      {
+        "icon color": "#2ac3de"
+      },
+      {
+        "selected icon color": "#16161F"
+      },
+      {
+        "toolbar" : [
+          {
+            "icon color" : "#565f89"
+          }
+       ]
+      }
+    ]
+  },
+  {
+    "notes" : [
+        {
+         "pin color": "#bb9af7"
+        },
+        {
+         "title color": "#7aa2f7"
+        },
+        {
+         "toolbar" : [
+           {
+            "icon color" : "#565f89"
+           }
+          ]
+        }
+    ]
+  },
+  {
+    "placeholder" : [
+      {
+        "background color": "$base.background color"
+      },
+      {
+        "background stroke color": "$base.background tertiary color"
+      },
+      {
+        "shadow color": "$base.background secondary color"
+      },
+      {
+        "stroke color": "#111015"
+      }
+    ]
+  },
+  {
+    "editor" : [
+      {
+        "link color": "#bb9af7"
+      },
+      {
+        "selection inactive color": "#333851"
+      },
+      {
+        "headers": [
+          {
+            "text color": "#7aa2f7"
+          }
+        ]
+      },
+      {
+        "table": [
+          {
+            "border color": "$editor.separator.border color"
+          }
+        ]
+      },
+      {
+        "separator": [
+          {
+            "border color": "#414868"
+          }
+        ]
+      },
+      {
+        "task": [
+          {
+            "border color": "#e0af68"
+          },
+          {
+            "check color": "#e0af68"
+          }
+        ]
+      },
+      {
+        "toolbar" : [
+          {
+            "icon color" : "#565f89"
+          }
+       ]
+      },
+      {
+        "code": [
+          {
+            "syntax highlight": [
+              {
+                "comment": "#565f89"
+              },
+              {
+                "constant": "#ff9e64"
+              },
+              {
+                "number": "#ff9e64"
+              },
+              {
+                "string": "#9ece6a"
+              },
+              {
+                "entity": "#7aa2f7"
+              },
+              {
+                "keyword": "#bb9af7"
+              },
+              {
+                "function": "#7aa2f7"
+              },
+              {
+                "variable": "#c0caf5"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "meta": [
+      {
+        "base theme": "Red Graphite"
+      }
+    ]
+  },
+  {
+    "base": [
+      {
+        "accent color": "#19D42D"
+      }
+    ]
+  },
+  {
+    "notes" : [
+        {
+          "title color": "#19D42D"
+        }
+    ]
+  },
+  {
+    "editor": [
+      {
+        "headers": [
+          {
+            "text color": "#19D42D"
+          }
+        ]
+      },
+      {
+        "separator": [
+          {
+            "border color": "#000000"
+          }
+        ]
+      },
+      {
+        "toolbar" : [
+          {
+            "icon color" : "#000000"
+          },
+       ]
+      }
+    ]
+  }
+]
